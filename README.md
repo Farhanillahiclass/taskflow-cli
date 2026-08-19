@@ -141,13 +141,19 @@ python3 -m unittest discover -s tests -v
 
 ## Demonstration Evidence
 
-Visual records of the operational CLI and unit test execution are documented under the [`screenshots/`](./screenshots) directory:
-- `01_menu_and_add_task.png` — Task creation and validation checks.
-- `02_view_and_sort.png` — Multi-attribute sorting and tabular display.
-- `03_summary_report.png` — Analytics dashboard showing system task metrics.
-- `04_unit_tests.png` — Full test suite passing console output.
+Visual records of the operational CLI and unit test execution:
 
----
+### 1. Task Creation & Input Validation
+![Menu and Add Task](./screenshots/01_menu_and_add_task.png)
+
+### 2. View All Tasks & Sorting
+![View and Sort](./screenshots/02_view_and_sort.png)
+
+### 3. Executive Analytics Dashboard
+![Summary Report](./screenshots/03_summary_report.png)
+
+### 4. Automated Unit Testing Suite
+![Unit Tests](./screenshots/04_unit_tests.png)
 
 ## Limitations
 
