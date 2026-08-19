@@ -155,6 +155,7 @@ Visual records of the operational CLI and unit test execution:
 ### 4. Automated Unit Testing Suite
 ![Unit Tests](./screenshots/04_unit_tests.png)
 
+
 ## Limitations
 
 - **Single-Node Execution:** Designed for single-user local CLI operations without remote concurrency locking.
